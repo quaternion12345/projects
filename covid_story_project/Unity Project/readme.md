@@ -6,6 +6,6 @@
 
 **1. Main Game**
 
-**2. Rhythm Game**
+**2. Mini Game 1 - Rhythm Game**
 
-**3. Shooting Game**
+**3. Mini Game 2 - Shooting Game**
