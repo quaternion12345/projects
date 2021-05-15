@@ -1,5 +1,5 @@
 # projects
 
-** 1. Covid-Story **
+**1. Covid-Story**
 
-** 2. IPSAC (Image Processing Smart Auto Crane)
+**2. IPSAC (Image Processing Smart Auto Crane)**
