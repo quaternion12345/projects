@@ -1,5 +1,7 @@
 # projects
 
-**1. Covid-Story**
+**- Big Data Competition**
 
-**2. IPSAC (Image Processing Smart Auto Crane)**
+**- Covid-Story**
+
+**- IPSAC (Image Processing Smart Auto Crane)**
