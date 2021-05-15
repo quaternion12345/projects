@@ -1,4 +1,4 @@
 # Project Title
-**Lora Node Mobility Prediction**
+**LoRa Node Mobility Prediction**
 # Project Goal
-**User mobility prediction using lora**
+**User mobility prediction with using lora module**
