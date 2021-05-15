@@ -4,7 +4,7 @@
 
 **- Lora-Based Node Mobility Prediction**
 
-**- Self-study(incomplete)**
+**- Self study(incomplete)**
 
 **- Covid-Story**
 
