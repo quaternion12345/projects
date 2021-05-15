@@ -1,0 +1,47 @@
+int EN1 = 6;
+int EN2 = 5;  //Roboduino Motor shield uses Pin 9
+int IN1 = 7;
+int IN2 = 4; //Latest version use pin 4 instead of pin 8
+
+
+void Motor1(int pwm, boolean reverse) {
+  analogWrite(EN1, pwm); //set pwm control, 0 for stop, and 255 for maximum speed
+  if (reverse) {
+    digitalWrite(IN1, HIGH);
+  }
+  else {
+    digitalWrite(IN1, LOW);
+  }
+}
+
+void Motor2(int pwm, boolean reverse) {
+  analogWrite(EN2, pwm);
+  if (reverse) {
+    digitalWrite(IN2, HIGH);
+  }
+  else {
+    digitalWrite(IN2, LOW);
+  }
+}
+
+void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(115200);
+  int i;
+  for (i = 4; i <= 7; i++) //For Arduino Motor Shield
+    pinMode(i, OUTPUT);  //set pin 4,5,6,7 to output mode
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  while(Serial.available()){
+    int tmp = Serial.read();
+    int direction_num = tmp%2;
+    
+    tmp=tmp/10;
+
+    Motor1(tmp,direction_num);
+    delay(5000);    
+  }
+  
+}

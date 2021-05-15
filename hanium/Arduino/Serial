@@ -1,0 +1,58 @@
+String income="";
+int EN1 = 6;
+int EN2 = 5;  //Roboduino Motor shield uses Pin 9
+int IN1 = 7;
+int IN2 = 4; //Latest version use pin 4 instead of pin 8
+
+void Motor2(int pwm, boolean reverse) {
+  analogWrite(EN2, pwm);
+  if (reverse) {
+    digitalWrite(IN2, HIGH);
+  }
+  else {
+    digitalWrite(IN2, LOW);
+  }
+}
+
+
+void setup() {
+
+  Serial.begin(9600);
+  int i;
+  for (i = 4; i <= 7; i++) //For Arduino Motor Shield
+    pinMode(i, OUTPUT);  //set pin 4,5,6,7 to output mode
+
+}
+
+long old =100;
+
+
+
+void loop() {
+
+  while (Serial.available() > 0) {
+
+    long value = Serial.parseInt(); //숫자로 된 문자열을 숫자로 바꿔준다.
+
+    if( value >= old) {
+
+      Motor2(255,true); //모터 돌리기 정방향?
+     // delay(5000); //딜레이 없어도 됨
+     income="hello";
+
+    } else {
+
+      Motor2(255,false);
+      //delay(5000); //마찬가지
+     income="bye";
+    }
+    Serial.println(income);
+    old = value;
+    income="";
+  }
+  
+}
+
+
+/////////이전 숫자 보다 같거나 높은 숫자면 정방향 유지
+/// 이전숫자보다 낮은 숫자면 역방향으로 전환

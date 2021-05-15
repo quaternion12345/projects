@@ -1,0 +1,18 @@
+import serial
+import time
+
+ser = serial.Serial('/dev/ttyACM2')
+ser.close()
+ser.open()
+
+while (1):
+    c=input()
+    print(c)
+    if c=='q':
+        break
+    else:
+        c=c.encode('utf-8')
+        ser.write(c)
+        tmp= ser.readline()
+        print(tmp)
+        
