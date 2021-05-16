@@ -1,4 +1,3 @@
-# Self study and meaningful assignments
 # Find Landmark using raw and image data
 **- Phase1: Geographical Clustering**
 
