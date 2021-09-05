@@ -7,9 +7,9 @@
 
 **- Computer Graphics**
 
-**- Computer Network**
-
 **- Computer Vision**
+
+**- Computer Network**
 
 **- Multicore and GPU Programming**
 
