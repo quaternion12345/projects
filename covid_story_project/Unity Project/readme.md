@@ -1,6 +1,6 @@
 # Project Title
 
-**Covid-Story(Unity C# Project)**
+**Covid-Story(C# Unity Project)**
 
 ## Content
 
