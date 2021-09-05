@@ -1,10 +1,21 @@
 # Courses(Incomplete)
 
 ## Course Name
-**- AI**
+**- Aritificial Intelligence**
 
-**- BigData**
+**- Big Data**
 
-**- ComputerNetwork**
+**- Computer Graphics**
 
-**- ML**
+**- Computer Network**
+
+**- Computer Vision**
+
+**- Multicore and GPU Programming**
+
+**- Machine Learning**
+
+**- Operating System**
+
+**- System Programming**
+
