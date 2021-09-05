@@ -3,4 +3,4 @@
 
 **- Phase2: Visual Clustering**
 
-**- Phase3: Textual Clustering(Continue)**
+**- Phase3: Textual Clustering**
