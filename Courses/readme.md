@@ -11,7 +11,7 @@
 
 **- Computer Network**
 
-**- Multicore and GPU Programming(Incomplete)**
+**- Multicore and GPU Programming**
 
 **- Machine Learning**
 
