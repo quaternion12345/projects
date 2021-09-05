@@ -5,17 +5,17 @@
 
 **- Big Data**
 
-**- Computer Graphics**
+**- Computer Graphics(Incomplete)**
 
-**- Computer Vision**
+**- Computer Vision(Incomplete)**
 
 **- Computer Network**
 
-**- Multicore and GPU Programming**
+**- Multicore and GPU Programming(Incomplete)**
 
 **- Machine Learning**
 
-**- Operating System**
+**- Operating System(Incomplete)**
 
-**- System Programming**
+**- System Programming(Incomplete)**
 
