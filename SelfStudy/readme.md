@@ -1,6 +1,6 @@
-# Self study and meaningful assignments(Incomplete)
+# Courses(Incomplete)
 
-## Subject Name
+## Course Name
 **- AI**
 
 **- BigData**
