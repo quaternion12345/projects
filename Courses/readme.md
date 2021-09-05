@@ -7,7 +7,7 @@
 
 **- Computer Graphics(Incomplete)**
 
-**- Computer Vision(Incomplete)**
+**- Computer Vision**
 
 **- Computer Network**
 
