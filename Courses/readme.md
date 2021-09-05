@@ -15,7 +15,7 @@
 
 **- Machine Learning**
 
-**- Operating System(Incomplete)**
+**- ~~Operating System~~**
 
-**- System Programming(Incomplete)**
+**- ~~System Programming~~**
 
