@@ -4,7 +4,7 @@
 
 **- Lora-Based Node Mobility Prediction(Deep Learning)**
 
-**- Self study(incomplete)**
+**- Courses(Continue...)**
 
 **- Covid-Story(Unity 2D Game Project)**
 
