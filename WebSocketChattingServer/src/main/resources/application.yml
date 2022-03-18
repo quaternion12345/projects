@@ -1,0 +1,9 @@
+#서버를 재시작하지 않고도 수정된 내용이 반영되도록 설정
+spring:
+  devtools:
+    livereload:
+      enabled: true
+    restart:
+      enabled: false
+  freemarker:
+    cache: false
