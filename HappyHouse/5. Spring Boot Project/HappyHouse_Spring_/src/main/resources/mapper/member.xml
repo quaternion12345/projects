@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.ssafy.notebook.model.dao.MemberDao">	
+	
+	<insert id="register" parameterType="Member">
+		insert into member(id, password, name, email, address, phone)
+		values (#{id}, #{password}, #{email}, #{address}, #{phone})
+	</insert>
+	
+	<delete id="delete" parameterType="string">
+		delete from member where id=#{id}
+	</delete>
+	
+	<select id="login" parameterType="string" resultType="Member">
+		select id, name
+		from member
+		where id=#{id} and password=#{password}
+	</select>
+	
+	<update id="modify" parameterType="Member">
+		update member set password=#{password}, email=#{email}, address=#{address}, phone=#{phone}
+		where id=#{id}
+	</update>
+	
+	<select id="inquire" parameterType="string" resultType="Member">
+		select *
+		from member
+		where id=#{id}
+	</select>
+	
+</mapper>
