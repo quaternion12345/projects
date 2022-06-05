@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.ssafy.happyhouse.model.dao.AptDealDao">
+
+	<select id="searchAll"		parameterType="PageBean"	resultType="AptDeal">
+		select	deal.no			no, 
+				info.aptName 	aptName, 
+				deal.dealAmount dealAmount, 
+				deal.dealYear 	dealYear, 
+				deal.dealMonth 	dealMonth, 
+				deal.dealDay 	dealDay, 
+				deal.area 		area, 
+				info.dongName	dong,
+				deal.floor 		floor, 
+				deal.type 		type, 
+				deal.rentMoney 	rentMoney,
+				info.jibun		jibun,
+				info.buildYear	buildYear
+		<choose>
+		<when test=" word != null and word != '' ">
+			<choose>
+				<when test=" key=='dong' ">
+		from	(select aptCode, aptName, dongName, jibun, buildYear
+				from	(SELECT dongCode
+						FROM dongcode
+						where dongName like concat('%', #{word}, '%')) dc, houseinfo hi
+				where hi.dongCode = dc.dongCode) info, housedeal deal
+				</when>
+				<when test=" key=='apt' ">
+		from	(select aptCode, aptName, dongName, jibun, buildYear
+				from	houseinfo
+				where	aptName like concat('%', #{word}, '%')) info, housedeal deal
+				</when>
+				<otherwise>
+		from	houseinfo info, housedeal deal
+				</otherwise>
+			</choose>
+		</when>
+		<otherwise>
+		from	houseinfo info, housedeal deal
+		</otherwise>
+		
+		</choose>
+		where deal.aptCode = info.aptCode
+		order by deal.no desc
+		limit #{start}, #{interval}
+	</select>
+	
+</mapper>

@@ -1,0 +1,468 @@
+[2m2022-05-25 00:52:42.906[0;39m [32m INFO[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Initializing Servlet 'dispatcherServlet'
+[2m2022-05-25 00:52:42.939[0;39m [32m INFO[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Completed initialization in 21 ms
+[2m2022-05-25 00:52:42.954[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 00:52:44.854[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 00:52:46.027[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 00:59:49.232[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 00:59:53.714[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 00:59:55.163[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 01:01:16.906[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 01:01:37.176[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 01:01:40.096[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 01:01:41.517[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 01:09:39.364[0;39m [33m WARN[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36m.w.s.m.s.DefaultHandlerExceptionResolver[0;39m [2m:[0;39m Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+[2m2022-05-25 01:09:39.373[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 01:09:41.377[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 01:09:43.811[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 01:09:45.888[0;39m [33m WARN[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36m.w.s.m.s.DefaultHandlerExceptionResolver[0;39m [2m:[0;39m Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+[2m2022-05-25 01:09:45.888[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 01:11:04.038[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 01:11:06.978[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 01:11:08.928[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 01:11:08.929[0;39m [33m WARN[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36m.w.s.m.s.DefaultHandlerExceptionResolver[0;39m [2m:[0;39m Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+[2m2022-05-25 01:14:41.670[0;39m [33m WARN[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36m.w.s.m.s.DefaultHandlerExceptionResolver[0;39m [2m:[0;39m Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+[2m2022-05-25 01:14:41.670[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 01:14:41.723[0;39m [33m WARN[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36m.w.s.m.s.DefaultHandlerExceptionResolver[0;39m [2m:[0;39m Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+[2m2022-05-25 01:14:41.724[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 01:14:43.914[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 01:14:46.951[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 01:14:48.616[0;39m [33m WARN[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36m.w.s.m.s.DefaultHandlerExceptionResolver[0;39m [2m:[0;39m Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+[2m2022-05-25 01:14:48.617[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 01:17:18.776[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 01:17:18.776[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 01:17:19.551[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 01:17:19.553[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 01:17:23.458[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 01:17:24.167[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 01:17:24.167[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 01:18:20.230[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 01:18:20.230[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 01:20:11.363[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m updateComment - 호출
+[2m2022-05-25 01:20:11.363[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m com.ssafy.vue.dto.Comment@5f6137b
+[2m2022-05-25 01:20:12.775[0;39m [33m WARN[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36m.w.s.m.s.DefaultHandlerExceptionResolver[0;39m [2m:[0;39m Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+[2m2022-05-25 01:21:21.665[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 01:21:24.053[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 01:21:26.925[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 01:21:27.945[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 01:21:27.946[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 01:21:38.622[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m updateComment - 호출
+[2m2022-05-25 01:21:38.622[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m com.ssafy.vue.dto.Comment@281971ad
+[2m2022-05-25 01:21:44.198[0;39m [33m WARN[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36m.w.s.m.s.DefaultHandlerExceptionResolver[0;39m [2m:[0;39m Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+[2m2022-05-25 01:22:39.679[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 01:22:39.679[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 01:22:41.737[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 01:22:44.967[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 01:22:46.464[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 01:22:46.464[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 01:22:53.884[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m updateComment - 호출
+[2m2022-05-25 01:22:53.884[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m com.ssafy.vue.dto.Comment@4d38fb09
+[2m2022-05-25 01:22:55.700[0;39m [33m WARN[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36m.w.s.m.s.DefaultHandlerExceptionResolver[0;39m [2m:[0;39m Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+[2m2022-05-25 01:48:58.716[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 01:48:59.690[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 01:48:59.690[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 01:49:15.141[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m writeComment - 호출
+[2m2022-05-25 01:49:16.290[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 01:49:20.278[0;39m [33m WARN[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36m.w.s.m.s.DefaultHandlerExceptionResolver[0;39m [2m:[0;39m Resolved [org.springframework.web.bind.MissingPathVariableException: Required URI template variable 'no' for method parameter type int is not present]
+[2m2022-05-25 01:50:19.762[0;39m [33m WARN[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36m.w.s.m.s.DefaultHandlerExceptionResolver[0;39m [2m:[0;39m Resolved [org.springframework.web.bind.MissingPathVariableException: Required URI template variable 'no' for method parameter type int is not present]
+[2m2022-05-25 01:50:51.778[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 01:50:52.469[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 01:50:52.469[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 01:50:56.744[0;39m [33m WARN[0;39m [35m14472[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36m.w.s.m.s.DefaultHandlerExceptionResolver[0;39m [2m:[0;39m Resolved [org.springframework.web.bind.MissingPathVariableException: Required URI template variable 'no' for method parameter type int is not present]
+[2m2022-05-25 01:51:42.342[0;39m [33m WARN[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36m.w.s.m.s.DefaultHandlerExceptionResolver[0;39m [2m:[0;39m Resolved [org.springframework.web.bind.MissingPathVariableException: Required URI template variable 'no' for method parameter type int is not present]
+[2m2022-05-25 01:52:16.010[0;39m [32m INFO[0;39m [35m14472[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-25 01:52:16.049[0;39m [32m INFO[0;39m [35m14472[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 373 ms
+[2m2022-05-25 01:52:16.183[0;39m [32m INFO[0;39m [35m14472[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-25 01:52:16.227[0;39m [32m INFO[0;39m [35m14472[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-25 01:52:16.271[0;39m [32m INFO[0;39m [35m14472[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-25 01:52:20.620[0;39m [32m INFO[0;39m [35m14472[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-25 01:52:20.656[0;39m [32m INFO[0;39m [35m14472[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 309 ms
+[2m2022-05-25 01:52:20.768[0;39m [32m INFO[0;39m [35m14472[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-25 01:52:20.801[0;39m [32m INFO[0;39m [35m14472[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-25 01:52:20.844[0;39m [32m INFO[0;39m [35m14472[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-25 01:52:26.777[0;39m [32m INFO[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Initializing Servlet 'dispatcherServlet'
+[2m2022-05-25 01:52:26.779[0;39m [32m INFO[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Completed initialization in 1 ms
+[2m2022-05-25 01:52:26.780[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 01:52:29.611[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 01:52:30.716[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 01:52:30.717[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 01:52:35.515[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m deleteComment - 호출
+[2m2022-05-25 01:52:36.702[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 02:05:57.849[0;39m [32m INFO[0;39m [35m14472[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-25 02:05:57.884[0;39m [32m INFO[0;39m [35m14472[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 350 ms
+[2m2022-05-25 02:05:58.000[0;39m [32m INFO[0;39m [35m14472[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-25 02:05:58.034[0;39m [32m INFO[0;39m [35m14472[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-25 02:05:58.080[0;39m [32m INFO[0;39m [35m14472[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-25 02:07:30.112[0;39m [32m INFO[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Initializing Servlet 'dispatcherServlet'
+[2m2022-05-25 02:07:30.113[0;39m [32m INFO[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Completed initialization in 1 ms
+[2m2022-05-25 02:07:30.115[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 02:07:33.806[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 02:07:35.466[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 02:07:35.467[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 02:07:48.674[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m updateComment - 호출
+[2m2022-05-25 02:07:48.674[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m com.ssafy.vue.dto.Comment@16f3fd44
+[2m2022-05-25 02:07:50.255[0;39m [33m WARN[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36m.w.s.m.s.DefaultHandlerExceptionResolver[0;39m [2m:[0;39m Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+[2m2022-05-25 02:08:27.023[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 02:08:29.937[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 02:08:30.970[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 02:08:30.970[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 02:08:55.219[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 02:08:58.317[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 02:08:58.980[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 02:08:58.980[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 02:09:48.920[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 02:09:48.920[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 02:09:52.590[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 02:09:55.200[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 02:09:56.044[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 02:09:56.044[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 02:11:55.051[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m updateComment - 호출
+[2m2022-05-25 02:11:55.051[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m com.ssafy.vue.dto.Comment@6b06b71d
+[2m2022-05-25 02:11:56.243[0;39m [33m WARN[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36m.w.s.m.s.DefaultHandlerExceptionResolver[0;39m [2m:[0;39m Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+[2m2022-05-25 02:13:52.625[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 02:13:53.540[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 02:13:53.541[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 02:15:46.792[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 02:15:47.962[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 02:15:47.962[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 02:15:55.816[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m updateComment - 호출
+[2m2022-05-25 02:15:55.817[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m com.ssafy.vue.dto.Comment@7207fd71
+[2m2022-05-25 02:15:57.228[0;39m [33m WARN[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36m.w.s.m.s.DefaultHandlerExceptionResolver[0;39m [2m:[0;39m Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+[2m2022-05-25 02:18:27.672[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 02:18:28.496[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 02:18:28.496[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 02:18:37.454[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m updateComment - 호출
+[2m2022-05-25 02:18:37.454[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m com.ssafy.vue.dto.Comment@1e07c142
+[2m2022-05-25 02:18:38.983[0;39m [33m WARN[0;39m [35m14472[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36m.w.s.m.s.DefaultHandlerExceptionResolver[0;39m [2m:[0;39m Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+[2m2022-05-25 02:20:37.097[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 02:20:37.098[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 02:20:57.232[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 02:20:58.140[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 02:20:58.140[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 02:21:09.611[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m updateComment - 호출
+[2m2022-05-25 02:21:09.611[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m com.ssafy.vue.dto.Comment@32883605
+[2m2022-05-25 02:21:10.637[0;39m [33m WARN[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36m.w.s.m.s.DefaultHandlerExceptionResolver[0;39m [2m:[0;39m Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+[2m2022-05-25 02:22:19.661[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 02:22:20.560[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 02:22:20.560[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 02:22:24.306[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m updateComment - 호출
+[2m2022-05-25 02:22:24.306[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m com.ssafy.vue.dto.Comment@60afd039
+[2m2022-05-25 02:22:25.458[0;39m [33m WARN[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36m.w.s.m.s.DefaultHandlerExceptionResolver[0;39m [2m:[0;39m Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+[2m2022-05-25 02:22:59.934[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 02:23:00.727[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 02:23:00.727[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 02:23:03.636[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m updateComment - 호출
+[2m2022-05-25 02:23:03.637[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m com.ssafy.vue.dto.Comment@cf13b4e
+[2m2022-05-25 02:23:04.734[0;39m [33m WARN[0;39m [35m14472[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36m.w.s.m.s.DefaultHandlerExceptionResolver[0;39m [2m:[0;39m Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+[2m2022-05-25 02:24:25.632[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 02:24:26.910[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 02:24:26.910[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 02:24:30.952[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m updateComment - 호출
+[2m2022-05-25 02:24:30.952[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m com.ssafy.vue.dto.Comment@74316695
+[2m2022-05-25 02:24:31.967[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 02:26:00.568[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 02:26:02.685[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 02:26:03.439[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 02:26:03.440[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 02:26:12.376[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m updateComment - 호출
+[2m2022-05-25 02:26:12.376[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m com.ssafy.vue.dto.Comment@25bbbd65
+[2m2022-05-25 02:26:18.902[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 02:27:30.351[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 02:27:31.275[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 02:27:31.275[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 02:27:34.177[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m updateComment - 호출
+[2m2022-05-25 02:27:34.177[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m com.ssafy.vue.dto.Comment@5d0cd99
+[2m2022-05-25 02:27:35.909[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 02:27:50.329[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 02:27:51.067[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 02:27:51.070[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 02:27:53.265[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m updateComment - 호출
+[2m2022-05-25 02:27:53.266[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m com.ssafy.vue.dto.Comment@78f4aa85
+[2m2022-05-25 02:27:54.300[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 02:31:29.346[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 02:31:31.974[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 02:31:31.974[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 02:31:36.890[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m updateComment - 호출
+[2m2022-05-25 02:31:36.891[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m com.ssafy.vue.dto.Comment@7e373517
+[2m2022-05-25 02:31:38.555[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 02:32:09.146[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m updateComment - 호출
+[2m2022-05-25 02:32:09.147[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m com.ssafy.vue.dto.Comment@3b6c685f
+[2m2022-05-25 02:32:10.431[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 02:37:10.221[0;39m [32mDEBUG[0;39m [35m14472[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 02:37:38.899[0;39m [32m INFO[0;39m [35m14472[0;39m [2m---[0;39m [2m[on(2)-127.0.0.1][0;39m [36minMXBeanRegistrar$SpringApplicationAdmin[0;39m [2m:[0;39m Application shutdown requested.
+[2m2022-05-25 15:53:28.776[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.e.DevToolsPropertyDefaultsPostProcessor[0;39m [2m:[0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2m2022-05-25 15:53:28.778[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.e.DevToolsPropertyDefaultsPostProcessor[0;39m [2m:[0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2m2022-05-25 15:53:29.794[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-25 15:53:29.948[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 1170 ms
+[2m2022-05-25 15:53:30.538[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-25 15:53:30.668[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-25 15:53:39.871[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Initializing Servlet 'dispatcherServlet'
+[2m2022-05-25 15:53:39.873[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Completed initialization in 1 ms
+[2m2022-05-25 15:57:22.675[0;39m [32mDEBUG[0;39m [35m9100[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 15:57:24.719[0;39m [32mDEBUG[0;39m [35m9100[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 15:57:34.824[0;39m [32mDEBUG[0;39m [35m9100[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 15:57:37.314[0;39m [32mDEBUG[0;39m [35m9100[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 15:57:37.314[0;39m [32mDEBUG[0;39m [35m9100[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 15:57:44.706[0;39m [32mDEBUG[0;39m [35m9100[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 15:57:49.892[0;39m [32mDEBUG[0;39m [35m9100[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 15:57:51.862[0;39m [32mDEBUG[0;39m [35m9100[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 15:57:51.863[0;39m [32mDEBUG[0;39m [35m9100[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.CommentController    [0;39m [2m:[0;39m retrieveComment - 호출
+[2m2022-05-25 15:57:53.047[0;39m [32mDEBUG[0;39m [35m9100[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m detailBoard - 호출
+[2m2022-05-25 15:57:54.587[0;39m [32mDEBUG[0;39m [35m9100[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mcom.ssafy.vue.controller.QnaController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 15:57:57.516[0;39m [31mERROR[0;39m [35m9100[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mo.a.c.c.C.[.[.[.[dispatcherServlet]     [0;39m [2m:[0;39m Servlet.service() for servlet [dispatcherServlet] in context with path [/vue] threw exception [Request processing failed; nested exception is org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Table 'ssafyweb.sidocode' doesn't exist
+### The error may exist in file [C:\SSAFY\work_vue\BackEnd\target\classes\mappers\apt.xml]
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: select left(sidoCode,2) sidoCode, sidoName   from sidocode   order by sidoCode
+### Cause: java.sql.SQLSyntaxErrorException: Table 'ssafyweb.sidocode' doesn't exist
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Table 'ssafyweb.sidocode' doesn't exist] with root cause
+
+java.sql.SQLSyntaxErrorException: Table 'ssafyweb.sidocode' doesn't exist
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:974)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:391)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.execute(ProxyPreparedStatement.java:44)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.execute(HikariProxyPreparedStatement.java)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.query(PreparedStatementHandler.java:64)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.query(RoutingStatementHandler.java:79)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:63)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:325)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:89)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:151)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:145)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:140)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:427)
+	at com.sun.proxy.$Proxy82.selectList(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectList(SqlSessionTemplate.java:224)
+	at org.apache.ibatis.binding.MapperMethod.executeForMany(MapperMethod.java:147)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:80)
+	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:145)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:86)
+	at com.sun.proxy.$Proxy86.getSido(Unknown Source)
+	at com.ssafy.vue.service.HouseMapServiceImpl.getSido(HouseMapServiceImpl.java:20)
+	at com.ssafy.vue.controller.HouseMapController.sido(HouseMapController.java:32)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+[2m2022-05-25 15:58:18.856[0;39m [32mDEBUG[0;39m [35m9100[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.ssafy.vue.controller.BoardController  [0;39m [2m:[0;39m retrieveBoard - 호출
+[2m2022-05-25 16:20:47.158[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-25 16:20:47.205[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 396 ms
+[2m2022-05-25 16:20:47.362[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-25 16:20:47.402[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-25 16:20:47.485[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-25 16:21:10.360[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-25 16:21:10.404[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 341 ms
+[2m2022-05-25 16:21:10.543[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-25 16:21:10.581[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-25 16:21:10.659[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-25 16:22:49.262[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-25 16:22:49.303[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 374 ms
+[2m2022-05-25 16:22:49.436[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-25 16:22:49.474[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-25 16:22:49.544[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-25 16:23:26.737[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-25 16:23:26.779[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 361 ms
+[2m2022-05-25 16:23:26.912[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-25 16:23:26.949[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-25 16:23:27.015[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-25 16:23:43.671[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-25 16:23:43.710[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 323 ms
+[2m2022-05-25 16:23:43.839[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-25 16:23:43.876[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-25 16:23:43.941[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-25 16:27:03.087[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-25 16:27:03.130[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 362 ms
+[2m2022-05-25 16:27:03.255[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-25 16:27:03.292[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-25 16:27:03.354[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-25 16:27:50.798[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-25 16:27:50.838[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 363 ms
+[2m2022-05-25 16:27:50.962[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-25 16:27:51.000[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-25 16:27:51.062[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-25 16:29:09.224[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-25 16:29:09.265[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 368 ms
+[2m2022-05-25 16:29:09.396[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-25 16:29:09.434[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-25 16:29:09.494[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-25 16:37:32.673[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-25 16:37:32.715[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 387 ms
+[2m2022-05-25 16:37:32.844[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-25 16:37:32.882[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-25 16:37:32.944[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-25 16:38:11.328[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Initializing Servlet 'dispatcherServlet'
+[2m2022-05-25 16:38:11.329[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Completed initialization in 1 ms
+[2m2022-05-25 16:54:01.734[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-25 16:54:01.777[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 403 ms
+[2m2022-05-25 16:54:01.910[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-25 16:54:01.950[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-25 16:54:02.013[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-25 16:54:31.057[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Initializing Servlet 'dispatcherServlet'
+[2m2022-05-25 16:54:31.059[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Completed initialization in 1 ms
+[2m2022-05-25 16:54:31.091[0;39m [32mDEBUG[0;39m [35m9100[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.ssafy.vue.controller.MemberController [0;39m [2m:[0;39m writeBoard - 호출
+[2m2022-05-25 16:55:45.939[0;39m [31mERROR[0;39m [35m9100[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.ssafy.vue.controller.MemberController [0;39m [2m:[0;39m 로그인 실패 : {}
+
+org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: java.lang.IndexOutOfBoundsException: Index: 3, Size: 3
+### The error may exist in file [C:\SSAFY\work_vue\BackEnd\target\classes\mappers\member.xml]
+### The error may involve com.ssafy.vue.mapper.MemberMapper.login
+### The error occurred while handling results
+### SQL: select username, userid, email   from ssafy_member   where userid = ? and userpwd = ?
+### Cause: java.lang.IndexOutOfBoundsException: Index: 3, Size: 3
+	at org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:96)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:441)
+	at com.sun.proxy.$Proxy82.selectOne(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:160)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:87)
+	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:145)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:86)
+	at com.sun.proxy.$Proxy203.login(Unknown Source)
+	at com.ssafy.vue.service.MemberServiceImpl.login(MemberServiceImpl.java:21)
+	at com.ssafy.vue.controller.MemberController.login(MemberController.java:56)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: java.lang.IndexOutOfBoundsException: Index: 3, Size: 3
+### The error may exist in file [C:\SSAFY\work_vue\BackEnd\target\classes\mappers\member.xml]
+### The error may involve com.ssafy.vue.mapper.MemberMapper.login
+### The error occurred while handling results
+### SQL: select username, userid, email   from ssafy_member   where userid = ? and userpwd = ?
+### Cause: java.lang.IndexOutOfBoundsException: Index: 3, Size: 3
+	at org.apache.ibatis.exceptions.ExceptionFactory.wrapException(ExceptionFactory.java:30)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:153)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:145)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:140)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:76)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:427)
+	... 58 common frames omitted
+Caused by: java.lang.IndexOutOfBoundsException: Index: 3, Size: 3
+	at java.util.ArrayList.rangeCheck(ArrayList.java:657)
+	at java.util.ArrayList.get(ArrayList.java:433)
+	at org.apache.ibatis.executor.resultset.DefaultResultSetHandler.createUsingConstructor(DefaultResultSetHandler.java:709)
+	at org.apache.ibatis.executor.resultset.DefaultResultSetHandler.createByConstructorSignature(DefaultResultSetHandler.java:694)
+	at org.apache.ibatis.executor.resultset.DefaultResultSetHandler.createResultObject(DefaultResultSetHandler.java:658)
+	at org.apache.ibatis.executor.resultset.DefaultResultSetHandler.createResultObject(DefaultResultSetHandler.java:631)
+	at org.apache.ibatis.executor.resultset.DefaultResultSetHandler.getRowValue(DefaultResultSetHandler.java:398)
+	at org.apache.ibatis.executor.resultset.DefaultResultSetHandler.handleRowValuesForSimpleResultMap(DefaultResultSetHandler.java:355)
+	at org.apache.ibatis.executor.resultset.DefaultResultSetHandler.handleRowValues(DefaultResultSetHandler.java:329)
+	at org.apache.ibatis.executor.resultset.DefaultResultSetHandler.handleResultSet(DefaultResultSetHandler.java:302)
+	at org.apache.ibatis.executor.resultset.DefaultResultSetHandler.handleResultSets(DefaultResultSetHandler.java:195)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.query(PreparedStatementHandler.java:65)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.query(RoutingStatementHandler.java:79)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:63)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:325)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:89)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:151)
+	... 66 common frames omitted
+
+[2m2022-05-25 16:57:01.961[0;39m [32m INFO[0;39m [35m9100[0;39m [2m---[0;39m [2m[on(2)-127.0.0.1][0;39m [36minMXBeanRegistrar$SpringApplicationAdmin[0;39m [2m:[0;39m Application shutdown requested.

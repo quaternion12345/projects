@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ssafy.vue.mapper.InterestMapper">
+
+	<!-- 전체 조회 -->
+	<select id="selectInterest" parameterType="string" resultType="Interest">
+		select *
+		from interest 
+		order by no asc
+	</select>
+	
+	<!-- 게시글 상세 조회 -->
+	<!-- <select id="selectBoardByNo" resultType="board">
+		select articleno, subject, userid, content, hit, regtime
+		from board 
+		where articleno = #{articleno}
+	</select> -->
+
+	<!-- 등록 -->
+	<insert id="insertInterest" parameterType="Interest">
+		insert into interest(
+			member_id, sidoName, gugunName, dongName, dongCode
+		) values (
+			#{member_id}, #{sidoName}, #{gugunName}, #{dongName}, #{dongCode}
+		)
+	</insert>
+	
+	<!-- 수정 -->
+	<update id="updateInterest" parameterType="Interest">
+		update interest
+		   set sidoname = #{sidoname}, 
+		   	   gugunname = #{gugunname}, 
+		   	   dongname = #{dongname},
+		   	   dongcode = #{dongcode},
+		 where no = #{no}
+	</update>
+
+	<!-- 삭제 -->
+	<delete id="deleteInterest" parameterType="int">
+		delete 
+		from interest 
+		where no = #{no}
+	</delete>
+
+</mapper>
+

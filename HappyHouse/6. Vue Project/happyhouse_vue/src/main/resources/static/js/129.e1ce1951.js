@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_board_bootstrap"]=self["webpackChunkvue_board_bootstrap"]||[]).push([[129],{5129:function(e,t,r){r.r(t),r.d(t,{default:function(){return i}});var n=function(){var e=this,t=e.$createElement,r=e._self._c||t;return r("b-container",{staticClass:"bv-example-row mt-3 text-center"},[r("h3",{staticClass:"underline-hotpink"},[r("b-icon",{attrs:{icon:"journals"}}),e._v(" Board Service ")],1),r("router-view")],1)},a=[],o={name:"BoardView"},s=o,u=r(3736),c=(0,u.Z)(s,n,a,!1,null,"3892724a",null),i=c.exports}}]);
+//# sourceMappingURL=129.e1ce1951.js.map

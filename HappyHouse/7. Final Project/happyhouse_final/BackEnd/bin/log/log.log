@@ -1,0 +1,382 @@
+[2m2022-05-20 11:24:23.423[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.e.DevToolsPropertyDefaultsPostProcessor[0;39m [2m:[0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2m2022-05-20 11:24:23.426[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.e.DevToolsPropertyDefaultsPostProcessor[0;39m [2m:[0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2m2022-05-20 11:24:24.437[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 11:24:24.608[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 1181 ms
+[2m2022-05-20 11:24:25.141[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 11:24:25.265[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 11:24:34.416[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Initializing Servlet 'dispatcherServlet'
+[2m2022-05-20 11:24:34.417[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Completed initialization in 1 ms
+[2m2022-05-20 11:39:19.026[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 11:39:19.072[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 361 ms
+[2m2022-05-20 11:39:19.189[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 11:39:19.230[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 11:39:19.275[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 11:40:16.390[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 11:40:16.433[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 345 ms
+[2m2022-05-20 11:40:16.540[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 11:40:16.579[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 11:40:16.619[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 11:40:18.901[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 11:40:18.940[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 302 ms
+[2m2022-05-20 11:40:19.044[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 11:40:19.082[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 11:40:19.116[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 11:40:24.345[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Initializing Servlet 'dispatcherServlet'
+[2m2022-05-20 11:40:24.347[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Completed initialization in 1 ms
+[2m2022-05-20 11:43:02.240[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 11:43:02.281[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 335 ms
+[2m2022-05-20 11:43:02.382[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 11:43:02.418[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 11:43:02.452[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 11:43:06.424[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Initializing Servlet 'dispatcherServlet'
+[2m2022-05-20 11:43:06.425[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Completed initialization in 0 ms
+[2m2022-05-20 11:43:23.019[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 11:43:23.059[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 302 ms
+[2m2022-05-20 11:43:23.161[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 11:43:23.198[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 11:43:23.231[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 14:50:42.293[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 14:50:42.335[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 364 ms
+[2m2022-05-20 14:50:42.456[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 14:50:42.497[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 14:50:42.529[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 14:50:56.946[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 14:50:56.986[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 296 ms
+[2m2022-05-20 14:50:57.083[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 14:50:57.120[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 14:50:57.149[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 15:00:45.394[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:00:45.432[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 332 ms
+[2m2022-05-20 15:00:45.530[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 15:00:45.567[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 15:00:45.597[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 15:03:11.993[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:03:12.030[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 326 ms
+[2m2022-05-20 15:03:12.130[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 15:03:12.166[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 15:03:12.195[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 15:04:49.815[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:04:49.853[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 327 ms
+[2m2022-05-20 15:04:49.952[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 15:04:49.987[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 15:04:50.015[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 15:05:05.441[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:05:05.479[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 295 ms
+[2m2022-05-20 15:05:05.578[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 15:05:05.613[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 15:05:05.641[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 15:06:47.316[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:06:47.353[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 319 ms
+[2m2022-05-20 15:06:47.446[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 15:06:47.483[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 15:06:47.511[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 15:06:53.897[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:06:53.935[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 303 ms
+[2m2022-05-20 15:06:54.032[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 15:06:54.069[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 15:06:54.096[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 15:07:17.742[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:07:17.779[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 321 ms
+[2m2022-05-20 15:07:17.873[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 15:07:17.911[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 15:07:17.938[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 15:08:21.037[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:08:21.074[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 322 ms
+[2m2022-05-20 15:08:21.169[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 15:08:21.206[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 15:08:21.234[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 15:08:49.829[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:08:49.865[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 286 ms
+[2m2022-05-20 15:08:49.957[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 15:08:49.994[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 15:08:50.020[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 15:10:05.267[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:10:05.304[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 326 ms
+[2m2022-05-20 15:10:05.397[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 15:10:05.434[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 15:10:05.459[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 15:10:14.758[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:10:14.794[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 285 ms
+[2m2022-05-20 15:10:14.886[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 15:10:14.923[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 15:10:14.952[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 15:11:13.989[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:11:14.026[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 321 ms
+[2m2022-05-20 15:11:14.118[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 15:11:14.155[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 15:11:14.181[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 15:13:39.492[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:13:39.528[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 326 ms
+[2m2022-05-20 15:13:39.622[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 15:13:39.659[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 15:13:39.686[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 15:13:54.144[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:13:54.181[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 298 ms
+[2m2022-05-20 15:13:54.293[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 15:13:54.337[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 15:13:54.365[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 15:14:55.486[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:14:55.523[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 328 ms
+[2m2022-05-20 15:14:55.616[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 15:14:55.653[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 15:14:55.678[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 15:15:12.124[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:15:12.160[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 282 ms
+[2m2022-05-20 15:15:12.251[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 15:15:12.287[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 15:15:12.313[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 15:16:29.589[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:16:29.624[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 319 ms
+[2m2022-05-20 15:16:29.716[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 15:16:29.755[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 15:16:29.781[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 15:16:38.168[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:16:38.207[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 299 ms
+[2m2022-05-20 15:16:38.308[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 15:16:38.347[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 15:16:38.376[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 15:19:24.543[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:19:24.580[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 325 ms
+[2m2022-05-20 15:19:24.672[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 15:19:24.709[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 15:19:24.734[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 15:19:43.266[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:19:43.302[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 285 ms
+[2m2022-05-20 15:19:43.393[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 15:19:43.429[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 15:19:43.455[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 15:20:00.018[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:20:00.054[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 324 ms
+[2m2022-05-20 15:20:00.146[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 15:20:00.182[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 15:20:00.209[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 15:20:04.502[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:20:04.538[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 284 ms
+[2m2022-05-20 15:20:04.630[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 15:20:04.668[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 15:20:04.692[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 15:20:35.432[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:20:35.467[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 322 ms
+[2m2022-05-20 15:20:35.557[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 15:20:35.593[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 15:20:35.618[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2022-05-20 15:21:02.259[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:21:02.297[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 293 ms
+[2m2022-05-20 15:21:02.305[0;39m [33m WARN[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mConfigServletWebServerApplicationContext[0;39m [2m:[0;39m Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'boardController': Unsatisfied dependency expressed through field 'boardService'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'com.ssafy.vue.service.BoardService' available: expected single matching bean but found 2: boardServiceImpl,interestServiceImpl
+[2m2022-05-20 15:21:02.311[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mConditionEvaluationReportLoggingListener[0;39m [2m:[0;39m 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[2m2022-05-20 15:21:02.326[0;39m [31mERROR[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.LoggingFailureAnalysisReporter  [0;39m [2m:[0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field boardService in com.ssafy.vue.controller.BoardController required a single bean, but 2 were found:
+	- boardServiceImpl: defined in file [C:\SSAFY\work_vue\BackEnd\target\classes\com\ssafy\vue\service\BoardServiceImpl.class]
+	- interestServiceImpl: defined in file [C:\SSAFY\work_vue\BackEnd\target\classes\com\ssafy\vue\service\InterestServiceImpl.class]
+
+
+Action:
+
+Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed
+
+[2m2022-05-20 15:21:09.191[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:21:09.227[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 321 ms
+[2m2022-05-20 15:21:09.235[0;39m [33m WARN[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mConfigServletWebServerApplicationContext[0;39m [2m:[0;39m Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'boardController': Unsatisfied dependency expressed through field 'boardService'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'com.ssafy.vue.service.BoardService' available: expected single matching bean but found 3: boardServiceImpl,frequentServiceImpl,interestServiceImpl
+[2m2022-05-20 15:21:09.238[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mConditionEvaluationReportLoggingListener[0;39m [2m:[0;39m 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[2m2022-05-20 15:21:09.240[0;39m [31mERROR[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.LoggingFailureAnalysisReporter  [0;39m [2m:[0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field boardService in com.ssafy.vue.controller.BoardController required a single bean, but 3 were found:
+	- boardServiceImpl: defined in file [C:\SSAFY\work_vue\BackEnd\target\classes\com\ssafy\vue\service\BoardServiceImpl.class]
+	- frequentServiceImpl: defined in file [C:\SSAFY\work_vue\BackEnd\target\classes\com\ssafy\vue\service\FrequentServiceImpl.class]
+	- interestServiceImpl: defined in file [C:\SSAFY\work_vue\BackEnd\target\classes\com\ssafy\vue\service\InterestServiceImpl.class]
+
+
+Action:
+
+Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed
+
+[2m2022-05-20 15:22:07.118[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:22:07.155[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 329 ms
+[2m2022-05-20 15:22:07.163[0;39m [33m WARN[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mConfigServletWebServerApplicationContext[0;39m [2m:[0;39m Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'boardController': Unsatisfied dependency expressed through field 'boardService'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'com.ssafy.vue.service.BoardService' available: expected single matching bean but found 3: boardServiceImpl,frequentServiceImpl,interestServiceImpl
+[2m2022-05-20 15:22:07.167[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mConditionEvaluationReportLoggingListener[0;39m [2m:[0;39m 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[2m2022-05-20 15:22:07.169[0;39m [31mERROR[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.LoggingFailureAnalysisReporter  [0;39m [2m:[0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field boardService in com.ssafy.vue.controller.BoardController required a single bean, but 3 were found:
+	- boardServiceImpl: defined in file [C:\SSAFY\work_vue\BackEnd\target\classes\com\ssafy\vue\service\BoardServiceImpl.class]
+	- frequentServiceImpl: defined in file [C:\SSAFY\work_vue\BackEnd\target\classes\com\ssafy\vue\service\FrequentServiceImpl.class]
+	- interestServiceImpl: defined in file [C:\SSAFY\work_vue\BackEnd\target\classes\com\ssafy\vue\service\InterestServiceImpl.class]
+
+
+Action:
+
+Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed
+
+[2m2022-05-20 15:22:19.135[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:22:19.175[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 326 ms
+[2m2022-05-20 15:22:19.183[0;39m [33m WARN[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mConfigServletWebServerApplicationContext[0;39m [2m:[0;39m Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'boardController': Unsatisfied dependency expressed through field 'boardService'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'com.ssafy.vue.service.BoardService' available: expected single matching bean but found 3: boardServiceImpl,frequentServiceImpl,interestServiceImpl
+[2m2022-05-20 15:22:19.186[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mConditionEvaluationReportLoggingListener[0;39m [2m:[0;39m 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[2m2022-05-20 15:22:19.188[0;39m [31mERROR[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.LoggingFailureAnalysisReporter  [0;39m [2m:[0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field boardService in com.ssafy.vue.controller.BoardController required a single bean, but 3 were found:
+	- boardServiceImpl: defined in file [C:\SSAFY\work_vue\BackEnd\target\classes\com\ssafy\vue\service\BoardServiceImpl.class]
+	- frequentServiceImpl: defined in file [C:\SSAFY\work_vue\BackEnd\target\classes\com\ssafy\vue\service\FrequentServiceImpl.class]
+	- interestServiceImpl: defined in file [C:\SSAFY\work_vue\BackEnd\target\classes\com\ssafy\vue\service\InterestServiceImpl.class]
+
+
+Action:
+
+Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed
+
+[2m2022-05-20 15:22:37.312[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:22:37.353[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 363 ms
+[2m2022-05-20 15:22:37.361[0;39m [33m WARN[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mConfigServletWebServerApplicationContext[0;39m [2m:[0;39m Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'boardController': Unsatisfied dependency expressed through field 'boardService'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'com.ssafy.vue.service.BoardService' available: expected single matching bean but found 3: boardServiceImpl,frequentServiceImpl,interestServiceImpl
+[2m2022-05-20 15:22:37.364[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mConditionEvaluationReportLoggingListener[0;39m [2m:[0;39m 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[2m2022-05-20 15:22:37.367[0;39m [31mERROR[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.LoggingFailureAnalysisReporter  [0;39m [2m:[0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field boardService in com.ssafy.vue.controller.BoardController required a single bean, but 3 were found:
+	- boardServiceImpl: defined in file [C:\SSAFY\work_vue\BackEnd\target\classes\com\ssafy\vue\service\BoardServiceImpl.class]
+	- frequentServiceImpl: defined in file [C:\SSAFY\work_vue\BackEnd\target\classes\com\ssafy\vue\service\FrequentServiceImpl.class]
+	- interestServiceImpl: defined in file [C:\SSAFY\work_vue\BackEnd\target\classes\com\ssafy\vue\service\InterestServiceImpl.class]
+
+
+Action:
+
+Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed
+
+[2m2022-05-20 15:22:53.425[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:22:53.461[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 329 ms
+[2m2022-05-20 15:22:53.468[0;39m [33m WARN[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mConfigServletWebServerApplicationContext[0;39m [2m:[0;39m Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'boardController': Unsatisfied dependency expressed through field 'boardService'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'com.ssafy.vue.service.BoardService' available: expected single matching bean but found 3: boardServiceImpl,frequentServiceImpl,interestServiceImpl
+[2m2022-05-20 15:22:53.471[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mConditionEvaluationReportLoggingListener[0;39m [2m:[0;39m 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[2m2022-05-20 15:22:53.473[0;39m [31mERROR[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.LoggingFailureAnalysisReporter  [0;39m [2m:[0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field boardService in com.ssafy.vue.controller.BoardController required a single bean, but 3 were found:
+	- boardServiceImpl: defined in file [C:\SSAFY\work_vue\BackEnd\target\classes\com\ssafy\vue\service\BoardServiceImpl.class]
+	- frequentServiceImpl: defined in file [C:\SSAFY\work_vue\BackEnd\target\classes\com\ssafy\vue\service\FrequentServiceImpl.class]
+	- interestServiceImpl: defined in file [C:\SSAFY\work_vue\BackEnd\target\classes\com\ssafy\vue\service\InterestServiceImpl.class]
+
+
+Action:
+
+Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed
+
+[2m2022-05-20 15:23:01.288[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:23:01.324[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 284 ms
+[2m2022-05-20 15:23:01.331[0;39m [33m WARN[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mConfigServletWebServerApplicationContext[0;39m [2m:[0;39m Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'boardController': Unsatisfied dependency expressed through field 'boardService'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'com.ssafy.vue.service.BoardService' available: expected single matching bean but found 2: boardServiceImpl,frequentServiceImpl
+[2m2022-05-20 15:23:01.334[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mConditionEvaluationReportLoggingListener[0;39m [2m:[0;39m 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[2m2022-05-20 15:23:01.337[0;39m [31mERROR[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.LoggingFailureAnalysisReporter  [0;39m [2m:[0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field boardService in com.ssafy.vue.controller.BoardController required a single bean, but 2 were found:
+	- boardServiceImpl: defined in file [C:\SSAFY\work_vue\BackEnd\target\classes\com\ssafy\vue\service\BoardServiceImpl.class]
+	- frequentServiceImpl: defined in file [C:\SSAFY\work_vue\BackEnd\target\classes\com\ssafy\vue\service\FrequentServiceImpl.class]
+
+
+Action:
+
+Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed
+
+[2m2022-05-20 15:23:14.297[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:23:14.332[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 326 ms
+[2m2022-05-20 15:23:14.340[0;39m [33m WARN[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mConfigServletWebServerApplicationContext[0;39m [2m:[0;39m Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'boardController': Unsatisfied dependency expressed through field 'boardService'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'com.ssafy.vue.service.BoardService' available: expected single matching bean but found 2: boardServiceImpl,frequentServiceImpl
+[2m2022-05-20 15:23:14.343[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mConditionEvaluationReportLoggingListener[0;39m [2m:[0;39m 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[2m2022-05-20 15:23:14.345[0;39m [31mERROR[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.LoggingFailureAnalysisReporter  [0;39m [2m:[0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field boardService in com.ssafy.vue.controller.BoardController required a single bean, but 2 were found:
+	- boardServiceImpl: defined in file [C:\SSAFY\work_vue\BackEnd\target\classes\com\ssafy\vue\service\BoardServiceImpl.class]
+	- frequentServiceImpl: defined in file [C:\SSAFY\work_vue\BackEnd\target\classes\com\ssafy\vue\service\FrequentServiceImpl.class]
+
+
+Action:
+
+Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed
+
+[2m2022-05-20 15:23:30.417[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 15:23:30.452[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 294 ms
+[2m2022-05-20 15:23:30.460[0;39m [33m WARN[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mConfigServletWebServerApplicationContext[0;39m [2m:[0;39m Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'boardController': Unsatisfied dependency expressed through field 'boardService'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'com.ssafy.vue.service.BoardService' available: expected single matching bean but found 2: boardServiceImpl,frequentServiceImpl
+[2m2022-05-20 15:23:30.463[0;39m [32m INFO[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mConditionEvaluationReportLoggingListener[0;39m [2m:[0;39m 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[2m2022-05-20 15:23:30.465[0;39m [31mERROR[0;39m [35m82508[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.LoggingFailureAnalysisReporter  [0;39m [2m:[0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field boardService in com.ssafy.vue.controller.BoardController required a single bean, but 2 were found:
+	- boardServiceImpl: defined in file [C:\SSAFY\work_vue\BackEnd\target\classes\com\ssafy\vue\service\BoardServiceImpl.class]
+	- frequentServiceImpl: defined in file [C:\SSAFY\work_vue\BackEnd\target\classes\com\ssafy\vue\service\FrequentServiceImpl.class]
+
+
+Action:
+
+Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed
+
+[2m2022-05-20 17:12:01.545[0;39m [32m INFO[0;39m [35m244304[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.e.DevToolsPropertyDefaultsPostProcessor[0;39m [2m:[0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2m2022-05-20 17:12:01.547[0;39m [32m INFO[0;39m [35m244304[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.e.DevToolsPropertyDefaultsPostProcessor[0;39m [2m:[0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2m2022-05-20 17:12:02.487[0;39m [32m INFO[0;39m [35m244304[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2022-05-20 17:12:02.635[0;39m [32m INFO[0;39m [35m244304[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 1087 ms
+[2m2022-05-20 17:12:03.165[0;39m [32m INFO[0;39m [35m244304[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2022-05-20 17:12:03.285[0;39m [32m INFO[0;39m [35m244304[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2022-05-20 17:12:12.956[0;39m [32m INFO[0;39m [35m244304[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Initializing Servlet 'dispatcherServlet'
+[2m2022-05-20 17:12:12.957[0;39m [32m INFO[0;39m [35m244304[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Completed initialization in 1 ms
