@@ -1,0 +1,27 @@
+.blueBtn {
+  background-color: #2b80ff;
+  border: none;
+  border-radius: 10px;
+  color: white;
+}
+.blueBtn:hover {
+  background-color: #5196fe;
+}
+.redBtn {
+  background-color: #FF4F5A;
+  border: none;
+  border-radius: 10px;
+  color: white;
+}
+.redBtn:hover {
+  background-color: #ff7d86;
+}
+.yellowBtn {
+  background-color: #FFD543;
+  border: none;
+  border-radius: 10px;
+  color: #382F0F;
+}
+.yellowBtn:hover {
+  background-color: #fde17a;
+}

@@ -1,0 +1,65 @@
+<html>
+
+<head><script src="openvidu-browser-2.22.0.min.js"></script></head>
+
+<body>
+    <div id="videos">
+        <div id="screen"></div>
+        <div id="video"></div>
+    </div>
+</body>
+
+<script>
+    var url = new URL(window.location.href);
+    var SESSION_ID = url.searchParams.get("sessionId");
+    var SECRET = url.searchParams.get("secret");
+    var TOKEN = 'wss://' + location.host + '?sessionId=' + SESSION_ID + '&secret=' + SECRET + '&recorder=true';
+    var OV = new OpenVidu();
+    var session = OV.initSession();
+    var screen = undefined;
+
+    session.on("streamCreated", (event) => {
+       if (JSON.parse(event.stream.connection.data).role == "teacher") {
+            // document.getElementById("screen").style.display='none';
+            session.subscribe(event.stream, 'video');
+            // document.getElementById("video").style.display='block';
+        } 
+        if (event.stream.typeOfVideo == "SCREEN") {
+            // document.getElementById("video").style.display='none';
+            screen = session.subscribe(event.stream, 'screen');
+            document.getElementById("screen").style.display='block';
+        }
+    });
+
+    session.on("streamDestroyed",(event) =>{
+        if (event.stream.typeOfVideo == "SCREEN") {
+            session.unsubscribe(screen);
+            document.getElementById("screen").style.display='none';
+            document.getElementById("video").style.display='block';
+        }
+    })
+
+    session.connect(TOKEN)
+        .then(() => { console.log('Recorder participant connected') })
+        .catch(error => { console.error(error) });
+</script>
+
+<style>
+    #videos{
+        height : calc(100vh - 16px);    
+    }
+    #video {
+        height: 100%;
+    }
+    #screen {
+        height: 100%;
+        display: none;
+    }
+
+    #videos video {
+        height: 100%;
+        width: 100%;
+    }
+</style>
+
+</html>
