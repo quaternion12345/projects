@@ -7,7 +7,7 @@
 
 **- Compiler Design**
 
-**- Computer Graphics**
+**- ~~Computer Graphics~~**
 
 **- Computer Vision**
 
