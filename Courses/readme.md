@@ -5,8 +5,6 @@
 
 **- Big Data**
 
-**- Compiler Design**
-
 **- ~~Computer Graphics~~**
 
 **- Computer Vision**
