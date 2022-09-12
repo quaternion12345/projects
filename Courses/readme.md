@@ -1,11 +1,13 @@
-# Courses(Incomplete)
+# Courses
 
 ## Course Name
 **- Aritificial Intelligence**
 
 **- Big Data**
 
-**- Computer Graphics(Incomplete)**
+**- Compiler Design**
+
+**- Computer Graphics**
 
 **- Computer Vision**
 
