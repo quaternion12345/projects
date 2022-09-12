@@ -15,7 +15,7 @@
 
 **- Machine Learning**
 
-**- ~~Operating System~~**
+**- Operating System**
 
 **- ~~System Programming~~**
 
