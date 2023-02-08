@@ -4,7 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
 // JPA Auditing 활성화
-@EnableJpaAuditing
+// @EnableJpaAuditing을 사용하기 위해서는 최소 하나의 @Entity class가 필요
+//@EnableJpaAuditing
 // SpringBoot의 Autoconfiguration, ComponentScan을 자동으로 수행하도록 설정
 @SpringBootApplication
 public class Application {
