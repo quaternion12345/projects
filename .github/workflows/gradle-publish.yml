@@ -1,38 +1,49 @@
-name: deploy # (0) GitHub Action에서 보여질 이름을 지정합니다. 
+name: deploy # GitHub Action에서 보여질 이름을 지정
 
 on:
   release:
-    types: [push] # (1) push시 자동으로 실행됩니다.
+    types: [push] # push시 자동으로 실행
   push:
-    branches: [master] # (2) master 브랜치에서 동작합니다.
-    paths: "springboot-webservice/**"
-  workflow_dispatch: # (3) 수동으로도 실행이 가능힙니다.
+    branches: [master] # master 브랜치에서 동작
+    paths: "springboot-webservice/**" # push시 action이 수행되는 범위를 프로젝트 전체가 아닌 특정 디렉터리로 지정
+  workflow_dispatch: # 수동으로도 실행이 가능
 
 
 jobs:
   build: 
-    runs-on: ubuntu-latest # (4) 해당 스크립트를 작동할 OS 입니다.
+    runs-on: ubuntu-latest # 해당 스크립트를 작동할 OS환경 지정
     permissions: 
       contents: read 
       packages: write
     defaults:
       run:
-        working-directory: "springboot-webservice"
+        working-directory: "springboot-webservice" # 전체 프로젝트가 아닌 빌드할 영역을 프로젝트 내의 특정 디렉터리로 지정
 
     steps:
     - name: Checkout 
-      uses: actions/checkout@v3  # (5) 프로젝트 코드를 CheckOut합니다.    
+      uses: actions/checkout@v3  # 프로젝트 코드를 CheckOut  
       
     - name: Set up JDK 8 
-      uses: actions/setup-java@v3 # (6) 
+      uses: actions/setup-java@v3 # Java 설치
       with:
         java-version: '8' 
         distribution: 'temurin' 
         
     - name: Grant execute permission for gradlew
-      run: chmod +x ./gradlew # (7)
+      run: chmod +x ./gradlew # gradlew에 실행 권한 부여
       shell: bash
 
     - name: Build with Gradle
-      run: ./gradlew clean build -x test # (8)
+      run: ./gradlew clean build -x test # gradlew로 빌드
+      shell: bash
+      
+    - name: Get current time
+      uses: 1466587594/get-current-time@v2  # KST로 시간대 설정
+      id: current-time
+      with:
+        format: YYYY-MM-DDTHH-mm-ss 
+        utcOffset: "+09:00"
+
+    - name: Show Current Time
+      run: echo "CurrentTime=${{steps.current-time.outputs.formattedTime}}" # 시간 포맷 설정
       shell: bash
