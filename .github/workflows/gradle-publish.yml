@@ -17,7 +17,7 @@ jobs:
       packages: write
     defaults:
       run:
-        working-directory: "./projects/springboot-webservice"
+        working-directory: "springboot-webservice"
 
     steps:
     - name: Checkout 
